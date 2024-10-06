@@ -1,0 +1,263 @@
+{
+  "project_info": {
+    "project_number": "595686676766",
+    "firebase_url": "https://qwik-chow-default-rtdb.firebaseio.com",
+    "project_id": "qwik-chow",
+    "storage_bucket": "qwik-chow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595686676766:android:cddce52dfa7e89d1c2510f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg7yW52Hnaalx6fwExz6U8Emko5WFN5AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595686676766-4btrqekdhgfphuphuhitkimuqsg2n3mo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodies.driver.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595686676766:android:362a5c0e4ae9d9f2c2510f",
+        "android_client_info": {
+          "package_name": "com.example.foodie_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg7yW52Hnaalx6fwExz6U8Emko5WFN5AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595686676766-4btrqekdhgfphuphuhitkimuqsg2n3mo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodies.driver.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595686676766:android:99d455c7ca113e19c2510f",
+        "android_client_info": {
+          "package_name": "com.example.foodie_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg7yW52Hnaalx6fwExz6U8Emko5WFN5AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595686676766-4btrqekdhgfphuphuhitkimuqsg2n3mo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodies.driver.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595686676766:android:969b9f72d67f15b9c2510f",
+        "android_client_info": {
+          "package_name": "com.foodies.customer.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg7yW52Hnaalx6fwExz6U8Emko5WFN5AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595686676766-4btrqekdhgfphuphuhitkimuqsg2n3mo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodies.driver.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595686676766:android:86cda84ece88159bc2510f",
+        "android_client_info": {
+          "package_name": "com.foodies.driver.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg7yW52Hnaalx6fwExz6U8Emko5WFN5AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595686676766-4btrqekdhgfphuphuhitkimuqsg2n3mo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodies.driver.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595686676766:android:af565e286b413fc8c2510f",
+        "android_client_info": {
+          "package_name": "com.foodies.restaurant.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg7yW52Hnaalx6fwExz6U8Emko5WFN5AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595686676766-4btrqekdhgfphuphuhitkimuqsg2n3mo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodies.driver.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595686676766:android:97eca720e0c7df13c2510f",
+        "android_client_info": {
+          "package_name": "com.qwikchow.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg7yW52Hnaalx6fwExz6U8Emko5WFN5AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595686676766-k1dvup0f7gfu3vhnat9tbb9o10s5q3ga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595686676766-4btrqekdhgfphuphuhitkimuqsg2n3mo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodies.driver.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
